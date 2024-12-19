@@ -13,4 +13,4 @@ Scan Line Algorithm
 
 2D Transformations: Translation, Rotation, Scaling, Reflection
 
-Clipping: Line Clipping, Polygon Clipping
+Clipping: Line Clipping, Polygon Clipping Algorithms
